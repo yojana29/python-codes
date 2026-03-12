@@ -31,4 +31,4 @@ def readDataFromFile():
    file.close()  # closing the file
 
 
-readDataFromFile()  # calling the function to read data from the file
+readDataFromFile()   # calling the function to read data from the file
