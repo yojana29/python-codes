@@ -51,10 +51,10 @@ for key, value in intro.items():
 print(intro.keys())
 print(intro.values())
 print(intro.items())
-print(intro.update{"age":25})
+intro.update({"age":25})
 
 #set only unique values
-print("######################### sets ")
+print("######################## sets######## ")
 myset = {1,2,3,4,5}
 print(myset)
 myset.add(6)
