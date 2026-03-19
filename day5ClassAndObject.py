@@ -34,3 +34,7 @@ L1 = Laptop("Dell",80000)
 L1.show_details()
 L2 = Laptop("Lenovo",50000)
 L2.show_details()
+
+
+
+
